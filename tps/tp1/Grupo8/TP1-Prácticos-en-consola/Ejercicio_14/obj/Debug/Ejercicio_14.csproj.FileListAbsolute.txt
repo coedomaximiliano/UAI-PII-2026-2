@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\bin\Debug\Ejercicio_14.exe.config
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\bin\Debug\Ejercicio_14.exe
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\bin\Debug\Ejercicio_14.pdb
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\obj\Debug\Ejercicio_14.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\obj\Debug\Ejercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\obj\Debug\Ejercicio_14.exe
+C:\Users\hp\source\repos\TP1-Prácticos-en-consola\Ejercicio_14\obj\Debug\Ejercicio_14.pdb
