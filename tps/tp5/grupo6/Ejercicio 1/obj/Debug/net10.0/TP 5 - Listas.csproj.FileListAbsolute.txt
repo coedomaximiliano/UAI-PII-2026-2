@@ -1,0 +1,14 @@
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.AssemblyInfoInputs.cache
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.AssemblyInfo.cs
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.csproj.CoreCompileInputs.cache
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\bin\Debug\net10.0\TP 5 - Listas.exe
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\bin\Debug\net10.0\TP 5 - Listas.deps.json
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\bin\Debug\net10.0\TP 5 - Listas.runtimeconfig.json
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\bin\Debug\net10.0\TP 5 - Listas.dll
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\bin\Debug\net10.0\TP 5 - Listas.pdb
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.dll
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\refint\TP 5 - Listas.dll
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.pdb
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\TP 5 - Listas.genruntimeconfig.cache
+C:\Users\Noxie-PC\source\repos\Ejercicio 1\TP 5 - Listas\obj\Debug\net10.0\ref\TP 5 - Listas.dll
