@@ -1,0 +1,15 @@
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\bin\Debug\net10.0\Tp5_Ej3.exe
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\bin\Debug\net10.0\Tp5_Ej3.deps.json
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\bin\Debug\net10.0\Tp5_Ej3.runtimeconfig.json
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\bin\Debug\net10.0\Tp5_Ej3.dll
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\bin\Debug\net10.0\Tp5_Ej3.pdb
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.AssemblyInfo.cs
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.dll
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\refint\Tp5_Ej3.dll
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.pdb
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.genruntimeconfig.cache
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\ref\Tp5_Ej3.dll
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\Tp5_Ej3\Tp5_Ej3\obj\Debug\net10.0\Tp5_Ej3.csproj.Up2Date
