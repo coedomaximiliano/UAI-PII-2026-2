@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|c:\\users\\damia\\desktop\\universidad\\a\u00F1o 2026\\programaci\u00F3n y estructura de datos\\tps\\tp6_ej4\\tp6_ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|solutionrelative:tp6_ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|c:\\users\\damia\\desktop\\universidad\\a\u00F1o 2026\\programaci\u00F3n y estructura de datos\\tps\\tp6_ej4\\tp6_ej4\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|solutionrelative:tp6_ej4\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|c:\\users\\damia\\desktop\\universidad\\a\u00F1o 2026\\programaci\u00F3n y estructura de datos\\tps\\tp6_ej4\\tp6_ej4\\nodopersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CCAC00-4670-4C8E-BBCF-EDBD9006F1A3}|Tp6_Ej4\\Tp6_Ej4.csproj|solutionrelative:tp6_ej4\\nodopersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\Cola.cs",
+              "RelativeDocumentMoniker": "Tp6_Ej4\\Cola.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\Cola.cs",
+              "RelativeToolTip": "Tp6_Ej4\\Cola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:17:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodoPersona.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\NodoPersona.cs",
+              "RelativeDocumentMoniker": "Tp6_Ej4\\NodoPersona.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\NodoPersona.cs",
+              "RelativeToolTip": "Tp6_Ej4\\NodoPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:17:07.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\Program.cs",
+              "RelativeDocumentMoniker": "Tp6_Ej4\\Program.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\Universidad\\A\u00F1o 2026\\Programaci\u00F3n y Estructura de Datos\\TPS\\Tp6_Ej4\\Tp6_Ej4\\Program.cs",
+              "RelativeToolTip": "Tp6_Ej4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:16:42.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
