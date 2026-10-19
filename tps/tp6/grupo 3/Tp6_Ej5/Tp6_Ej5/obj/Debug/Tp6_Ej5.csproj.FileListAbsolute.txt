@@ -1,0 +1,7 @@
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\bin\Debug\Tp6_Ej5.exe.config
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\bin\Debug\Tp6_Ej5.exe
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\bin\Debug\Tp6_Ej5.pdb
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\obj\Debug\Tp6_Ej5.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\obj\Debug\Tp6_Ej5.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\obj\Debug\Tp6_Ej5.exe
+C:\Users\damia\Desktop\Universidad\Año 2026\Programación y Estructura de Datos\TPS\Tp6_Ej5\Tp6_Ej5\obj\Debug\Tp6_Ej5.pdb
