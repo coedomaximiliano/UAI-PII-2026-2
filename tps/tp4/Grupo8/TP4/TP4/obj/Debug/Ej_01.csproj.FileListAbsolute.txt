@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\hp\source\repos\TP4\TP4\bin\Debug\TP4.exe
+C:\Users\hp\source\repos\TP4\TP4\bin\Debug\TP4.pdb
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\Ej_01.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\TP4.Form1.resources
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\TP4.Properties.Resources.resources
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\Ej_01.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\Ej_01.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\TP4.exe
+C:\Users\hp\source\repos\TP4\TP4\obj\Debug\TP4.pdb

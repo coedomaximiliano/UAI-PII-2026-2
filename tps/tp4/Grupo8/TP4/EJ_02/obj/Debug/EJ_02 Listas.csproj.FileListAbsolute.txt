@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP4\EJ_02\bin\Debug\EJ_02.exe.config
+C:\Users\hp\source\repos\TP4\EJ_02\bin\Debug\EJ_02.exe
+C:\Users\hp\source\repos\TP4\EJ_02\bin\Debug\EJ_02.pdb
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02 Listas.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02.Form1.resources
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02.Properties.Resources.resources
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02 Listas.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02 Listas.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02.exe
+C:\Users\hp\source\repos\TP4\EJ_02\obj\Debug\EJ_02.pdb

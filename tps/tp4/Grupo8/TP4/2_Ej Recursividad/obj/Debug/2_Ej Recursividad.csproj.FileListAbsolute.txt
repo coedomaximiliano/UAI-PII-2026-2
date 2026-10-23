@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\bin\Debug\2_Ej Recursividad.exe.config
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\bin\Debug\2_Ej Recursividad.exe
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\bin\Debug\2_Ej Recursividad.pdb
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\obj\Debug\2_Ej Recursividad.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\obj\Debug\2_Ej Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\obj\Debug\2_Ej Recursividad.exe
+C:\Users\hp\source\repos\TP4\2_Ej Recursividad\obj\Debug\2_Ej Recursividad.pdb

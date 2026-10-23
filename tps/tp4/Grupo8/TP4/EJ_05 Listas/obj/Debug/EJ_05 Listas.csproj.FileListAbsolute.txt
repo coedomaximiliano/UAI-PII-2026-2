@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\bin\Debug\EJ_05 Listas.exe.config
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\bin\Debug\EJ_05 Listas.exe
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\bin\Debug\EJ_05 Listas.pdb
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05 Listas.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05_Listas.Properties.Resources.resources
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05 Listas.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05 Listas.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05 Listas.exe
+C:\Users\hp\source\repos\TP4\EJ_05 Listas\obj\Debug\EJ_05 Listas.pdb
