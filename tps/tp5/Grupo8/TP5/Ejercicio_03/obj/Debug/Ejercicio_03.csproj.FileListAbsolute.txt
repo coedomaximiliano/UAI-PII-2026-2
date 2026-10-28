@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.Form1.resources
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.Properties.Resources.resources
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP5\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\hp\source\repos\TP5\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\hp\source\repos\TP5\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\hp\source\repos\TP5\Ejercicio_03\obj\Debug\Ejercicio_03.pdb

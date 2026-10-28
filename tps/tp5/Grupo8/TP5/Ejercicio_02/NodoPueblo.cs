@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_02
+{
+    internal class NodoPueblo
+    {
+        public string nombre;
+        public NodoPueblo siguiente;
+
+
+
+    }
+}
