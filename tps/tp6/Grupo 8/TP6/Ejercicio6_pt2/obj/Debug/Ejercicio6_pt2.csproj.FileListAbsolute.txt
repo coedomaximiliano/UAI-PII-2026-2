@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\bin\Debug\Ejercicio6_pt2.exe.config
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\bin\Debug\Ejercicio6_pt2.exe
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\bin\Debug\Ejercicio6_pt2.pdb
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.Form1.resources
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.Properties.Resources.resources
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.exe
+C:\Users\hp\source\repos\TP6\Ejercicio6_pt2\obj\Debug\Ejercicio6_pt2.pdb
