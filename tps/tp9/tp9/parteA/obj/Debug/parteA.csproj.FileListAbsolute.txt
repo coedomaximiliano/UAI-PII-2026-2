@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\bin\Debug\parteA.exe.config
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\bin\Debug\parteA.exe
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\bin\Debug\parteA.pdb
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.Form1.resources
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.Properties.Resources.resources
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.csproj.GenerateResource.cache
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.exe
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.pdb
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.exe.config
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\tp9\parteA\obj\Debug\parteA.Form2.resources
