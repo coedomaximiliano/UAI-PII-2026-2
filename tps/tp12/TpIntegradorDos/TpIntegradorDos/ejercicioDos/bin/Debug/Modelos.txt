@@ -1,0 +1,3 @@
+1;Modelo A;50
+2;Modelo B;20
+3;Modelo C;30

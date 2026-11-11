@@ -1,0 +1,7 @@
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\bin\Debug\ejercicioUno.exe.config
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\bin\Debug\ejercicioUno.exe
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\bin\Debug\ejercicioUno.pdb
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\obj\Debug\ejercicioUno.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\obj\Debug\ejercicioUno.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\obj\Debug\ejercicioUno.exe
+C:\Users\leand\Desktop\Uai\2026\2do cuatri\Programación Estructurada\EjerciciosDeClases\Clase6\TpIntegradorDos\ejercicioUno\obj\Debug\ejercicioUno.pdb

@@ -1,0 +1,4 @@
+1;Rueda;100
+2;Motor;30
+3;Puerta;80
+4;Asiento;100
