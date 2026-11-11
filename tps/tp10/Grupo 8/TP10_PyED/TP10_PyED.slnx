@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Parte_A (tp9)/">
+    <Project Path="Laboratorio1/Laboratorio1.csproj" Id="750a2c40-7778-4164-ad5c-dc8a8fc71e74" />
+    <Project Path="Laboratorio2/Laboratorio2.csproj" Id="23b06092-969b-4e6d-885f-ab4271787df9" />
+  </Folder>
+  <Project Path="TP10_PyED/TP10_PyED.csproj" Id="9267bae6-224c-4b1b-a2dc-1a211f7550d4" />
+</Solution>

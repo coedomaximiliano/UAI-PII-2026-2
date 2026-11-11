@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\bin\Debug\TP10_PyED.exe.config
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\bin\Debug\TP10_PyED.exe
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\bin\Debug\TP10_PyED.pdb
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.Form1.resources
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.Properties.Resources.resources
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.exe
+C:\Users\hp\source\repos\TP10_PyED\TP10_PyED\obj\Debug\TP10_PyED.pdb
