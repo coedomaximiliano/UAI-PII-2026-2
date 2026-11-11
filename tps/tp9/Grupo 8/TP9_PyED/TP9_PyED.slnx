@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Parte_A/">
+    <Project Path="Laboratorio1/Laboratorio1.csproj" Id="750a2c40-7778-4164-ad5c-dc8a8fc71e74" />
+    <Project Path="Laboratorio2/Laboratorio2.csproj" Id="23b06092-969b-4e6d-885f-ab4271787df9" />
+  </Folder>
+  <Project Path="ParteB/ParteB.csproj" Id="c2b65c45-ca0d-400c-9843-d8e2f2170e80" />
+</Solution>

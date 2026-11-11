@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP9_PyED\ParteB\bin\Debug\ParteB.exe.config
+C:\Users\hp\source\repos\TP9_PyED\ParteB\bin\Debug\ParteB.exe
+C:\Users\hp\source\repos\TP9_PyED\ParteB\bin\Debug\ParteB.pdb
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.Properties.Resources.resources
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.exe
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.pdb
+C:\Users\hp\source\repos\TP9_PyED\ParteB\obj\Debug\ParteB.Form1.resources

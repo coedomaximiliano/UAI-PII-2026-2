@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.exe
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.pdb
+C:\Users\hp\source\repos\TP9_PyED\Laboratorio2\obj\Debug\Laboratorio2.Form1.resources
