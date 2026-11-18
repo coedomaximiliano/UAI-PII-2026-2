@@ -1,0 +1,5 @@
+﻿a) ¿Qué estructura de datos debe aplicarse para su resolución? Justifique.
+- Se debe usar una cola, ya que el primero en anotarse es el primero en subir
+
+b) Nombrar los componentes que se usaron para replicarlo
+- Se usaron: 1 PictureBox, 1 GroupBox el cual contiene: 2 labels, 2 buttons, 1 textbox y 1 listbox

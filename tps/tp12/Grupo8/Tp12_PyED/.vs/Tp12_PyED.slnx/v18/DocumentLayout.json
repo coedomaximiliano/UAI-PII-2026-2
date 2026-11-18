@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3651FA2D-3B2E-47D6-9C1B-93713DBF6C48}|Tp12_PyED\\Ejercicio_01.csproj|c:\\users\\hp\\documents\\github\\uai-pii-2026-2\\tps\\tp12\\grupo8\\tp12_pyed\\tp12_pyed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3651FA2D-3B2E-47D6-9C1B-93713DBF6C48}|Tp12_PyED\\Ejercicio_01.csproj|solutionrelative:tp12_pyed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BE34BB-7471-4126-8C22-16D6A66B779D}|Ejercicio_02\\Ejercicio_02.csproj|C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\ejercicio_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2BE34BB-7471-4126-8C22-16D6A66B779D}|Ejercicio_02\\Ejercicio_02.csproj|solutionrelative:ejercicio_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\Tp12_PyED\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp12_PyED\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\Tp12_PyED\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp12_PyED\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T20:52:18.118Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\Ejercicio_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\UAI-PII-2026-2\\tps\\tp12\\Grupo8\\Tp12_PyED\\Ejercicio_02\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio_02\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T20:46:27.212Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

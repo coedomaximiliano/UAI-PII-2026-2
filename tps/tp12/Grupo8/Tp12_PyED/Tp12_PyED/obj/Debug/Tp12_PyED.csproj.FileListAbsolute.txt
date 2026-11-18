@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\bin\Debug\Tp12_PyED.exe.config
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\bin\Debug\Tp12_PyED.exe
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\bin\Debug\Tp12_PyED.pdb
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.Form1.resources
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.Properties.Resources.resources
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.exe
+C:\Users\hp\source\repos\Tp12_PyED\Tp12_PyED\obj\Debug\Tp12_PyED.pdb
